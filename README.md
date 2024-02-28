@@ -4,8 +4,8 @@ yolov9 on rk3588
 ## (1）download rknn model  yolov9c.rknn
 
 ```
-rknn model link:  https://pan.baidu.com/s/17w8Tn8CPCfkpA6ePfJpTkw?pwd=h8m7
-提取码: h8m7 
+链接: https://pan.baidu.com/s/1ou_OFndO_T9x2Ud30JqlYQ?pwd=ai2c
+提取码: 
 ```
 
 ## (2) run
