@@ -5,7 +5,7 @@ yolov9 on rk3588
 
 ```
 链接: https://pan.baidu.com/s/1ou_OFndO_T9x2Ud30JqlYQ?pwd=ai2c
-提取码: 
+提取码:  ai2c
 ```
 
 ## (2) run
